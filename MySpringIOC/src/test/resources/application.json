@@ -1,0 +1,21 @@
+[
+  {
+    "name": "robot",
+    "className": "cn.edu.seu.wh.entity.Robot"
+  },
+  {
+    "name": "hand",
+    "className": "cn.edu.seu.wh.entity.Hand"
+  },
+  {
+    "name": "mouth",
+    "className": "cn.edu.seu.wh.entity.Mouth",
+    "constructorArgs": [
+      {
+        "index": 1,
+        "name": "name",
+        "value": "hello"
+      }
+    ]
+  }
+]
